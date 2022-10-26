@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nicolas Meirhaeghe"
+title                    : "Neural dynamics, behavior & computation"
 title_separator          : "-"
 name                     : &name "Nicolas Meirhaeghe"
 description              : &description "personal description"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Nicolas Meirhaeghe"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Fellow"
-  location         : "Institut de Neurosciences de la Timone, Marseille, France"
+  bio              : "Postdoctoral Fellow at Institut de Neurosciences de la Timone. Previously: PhD at MIT (Jazayeri lab), MSc Caltech, Ingénieur Supaéro"
+  location         : "Marseille, France"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "nmrghe"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "nicognitive"
   vine             :
   weibo            :
   xing             :
