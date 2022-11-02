@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Classes Préparatoires in Mathematics, Physics and Engineering, Lycée Faidherbe, 2009–2012
+* B.Eng. (Ingénieur) in Aeronautics & Aerospace Engineering, ISAE-Supaéro, 2016
+* M.S. in Space Egnineering, California Institute of Technology, 2015
+* Ph.D in Neuroscience, Massachusetts Institute of Technology, 2021
 
 Work experience
 ======
