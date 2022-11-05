@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Classes Préparatoires in Mathematics, Physics and Engineering, Lycée Faidherbe, 2009–2012
-* B.Eng. (Ingénieur) in Aeronautics & Aerospace Engineering, ISAE-Supaéro, 2016
+* M.Eng. (Ingénieur) in Aeronautics & Aerospace Engineering, ISAE-Supaéro, 2016
 * M.S. in Space Egnineering, California Institute of Technology, 2015
 * Ph.D in Neuroscience, Massachusetts Institute of Technology, 2021
 
