@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : # "Neural dynamics, behavior & computation"
+title                    : About # "Neural dynamics, behavior & computation"
 title_separator          : "-"
 name                     : &name "Nicolas Meirhaeghe"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Nicolas Meirhaeghe"
-  avatar           : "NM2.png"
+  avatar           : "NM.jpg"
   bio              : "Neuroscientist"
   location         : "Marseille, France"
   employer         :
