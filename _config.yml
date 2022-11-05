@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Neural dynamics, behavior & computation"
+title                    : # "Neural dynamics, behavior & computation"
 title_separator          : "-"
 name                     : &name "Nicolas Meirhaeghe"
 description              : &description "personal description"
