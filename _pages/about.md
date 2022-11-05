@@ -10,7 +10,8 @@ redirect_from:
 
 I'm a neuroscientist currently working as a postdoctoral fellow at the [Institut de Neurosciences de la Timone](https://www.int.univ-amu.fr/) in Marseille, France. My research focuses on how learning shapes neural activity, and how in turn, structured neural activity supports sensorimotor behavior. My work lies at the intersection of neuroelectrophysiology, behavior and computational modelling.
 
-I obtained my PhD from MIT working with [Mehrdad Jazayeri](https://jazlab.org/) in the [Harvard-MIT Division of Health Sciences & Technology](https://hst.mit.edu/about). Engineer by training, I hold an MSc in aerospace engineering from [ISAE-Supaéro](https://www.isae-supaero.fr/en/) and [Caltech](https://galcit.caltech.edu/). During my Master's, I investigated the role of gravity in spatial cognition, and am still interested in this topic in parallel with my main research.
+I obtained my PhD from MIT working with [Mehrdad Jazayeri](https://jazlab.org/) in the [Harvard-MIT Division of Health Sciences & Technology](https://hst.mit.edu/about). Engineer by training, I hold an MSc in aerospace engineering from [ISAE-Supaéro](https://www.isae-supaero.fr/en/) and [Caltech](https://galcit.caltech.edu/).
+
 
 A data-driven personal website
 ======
