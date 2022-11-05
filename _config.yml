@@ -87,8 +87,8 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=gXpQelwAAAAJ"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "nmrghe@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Nicolas-Meirhaeghe-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            : "https://orcid.org/0000-0002-3785-0696"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
